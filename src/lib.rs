@@ -45,7 +45,7 @@ pub const PLAYER_MEMORY_SHARDS_SPAWN_RATE_MODIFIER: f32 = 1.0 / 2.0;
 
 pub static DIALOG_LINES: [(&str, Duration); 4] = [
     (
-        "THAT CURSED KOMBOTER AGAIN... F***!",
+        "THAT CURSED KOMBOTER AGAIN... FUCK!",
         Duration::from_secs(3),
     ),
     (
